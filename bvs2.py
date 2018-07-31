@@ -1,6 +1,6 @@
-b=input()
-if (b>='a' and b<='z'):
-    if b=='a' or b=='e' or b=='i' or b=='o' or b=='u':
+a=input()
+if (a>='a' and a<='z'):
+    if a=='a' or a=='e' or a=='i' or a=='o' or a=='u':
         print("Vowel")
     else:
         print("Consonant")
